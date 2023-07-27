@@ -1,0 +1,18 @@
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\NonogramGeneratorAndPlayer\NonogramGeneratorAndPlayer\bin\Debug\NonogramGeneratorAndPlayer.exe.config
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\NonogramGeneratorAndPlayer\NonogramGeneratorAndPlayer\bin\Debug\NonogramGeneratorAndPlayer.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\NonogramGeneratorAndPlayer\NonogramGeneratorAndPlayer\bin\Debug\NonogramGeneratorAndPlayer.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\NonogramGeneratorAndPlayer\NonogramGeneratorAndPlayer\obj\Debug\NonogramGeneratorAndPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\NonogramGeneratorAndPlayer\NonogramGeneratorAndPlayer\obj\Debug\NonogramGeneratorAndPlayer.Form1.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\NonogramGeneratorAndPlayer\NonogramGeneratorAndPlayer\obj\Debug\NonogramGeneratorAndPlayer.Properties.Resources.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\NonogramGeneratorAndPlayer\NonogramGeneratorAndPlayer\obj\Debug\NonogramGeneratorAndPlayer.csproj.GenerateResource.Cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\NonogramGeneratorAndPlayer\NonogramGeneratorAndPlayer\obj\Debug\NonogramGeneratorAndPlayer.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\NonogramGeneratorAndPlayer\NonogramGeneratorAndPlayer\obj\Debug\NonogramGeneratorAndPlayer.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NonogramGeneratorAndPlayer\NonogramGeneratorAndPlayer\bin\Debug\NonogramGeneratorAndPlayer.exe.config
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NonogramGeneratorAndPlayer\NonogramGeneratorAndPlayer\obj\Debug\NonogramGeneratorAndPlayer.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NonogramGeneratorAndPlayer\NonogramGeneratorAndPlayer\obj\Debug\NonogramGeneratorAndPlayer.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NonogramGeneratorAndPlayer\NonogramGeneratorAndPlayer\bin\Debug\NonogramGeneratorAndPlayer.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NonogramGeneratorAndPlayer\NonogramGeneratorAndPlayer\bin\Debug\NonogramGeneratorAndPlayer.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NonogramGeneratorAndPlayer\NonogramGeneratorAndPlayer\obj\Debug\NonogramGeneratorAndPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NonogramGeneratorAndPlayer\NonogramGeneratorAndPlayer\obj\Debug\NonogramGeneratorAndPlayer.Form1.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NonogramGeneratorAndPlayer\NonogramGeneratorAndPlayer\obj\Debug\NonogramGeneratorAndPlayer.Properties.Resources.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NonogramGeneratorAndPlayer\NonogramGeneratorAndPlayer\obj\Debug\NonogramGeneratorAndPlayer.csproj.GenerateResource.Cache
